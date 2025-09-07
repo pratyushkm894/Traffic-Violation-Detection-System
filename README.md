@@ -80,11 +80,9 @@ intelligent-traffic-violation-detection/
 
 ```
 ## 📸 Demo Preview  
-<img width="1869" height="689" alt="Image" src="https://github.com/user-attachments/assets/4342c1ce-5b3b-425d-a2ec-37a384db3806" />
-<img width="1869" height="509" alt="Image" src="https://github.com/user-attachments/assets/ab1daf4c-c171-4acf-bfa0-1238d465e6b6" />
-<img width="1869" height="733" alt="Image" src="https://github.com/user-attachments/assets/c22d5d3a-8828-44b9-b615-9d630b9db6ce" />
-<img width="1877" height="631" alt="Image" src="https://github.com/user-attachments/assets/0398168f-48da-4dd7-97cc-808735585049" />
-<img width="1883" height="551" alt="Image" src="https://github.com/user-attachments/assets/b7ce990d-dbf2-433b-9f54-7068f8dd8346" />
+<img width="1869" height="101" alt="Image" src="https://github.com/user-attachments/assets/8d84da24-a964-4ae1-8de0-175aba709ddd" />
+<img width="1861" height="843" alt="Image" src="https://github.com/user-attachments/assets/970db2ea-cc7d-40c3-9784-035b7289b2b5" />
+<img width="1861" height="801" alt="Image" src="https://github.com/user-attachments/assets/8c1983fd-e8e5-434d-935e-c78ed1ce35ae" />
 
 ---
 ## 🔮 Future Enhancements
